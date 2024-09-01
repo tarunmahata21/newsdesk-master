@@ -1,5 +1,6 @@
 Health News Web Application
 The Health News web application is a user-friendly platform designed to provide the latest news, information and updates on health and wellness. The app gathers information from a wide variety of trusted sources, ensuring that users have access to accurate and up-to-date information on a variety of health topics, including health, nutrition, mental health, medical examination, etc. included
+![Screenshot 2024-09-01 144446](https://github.com/user-attachments/assets/8a83f8ba-de8f-4eb8-a0db-780695377d7a)
 
 features:
 Real-time health news: Get the latest health information from trusted sources.
